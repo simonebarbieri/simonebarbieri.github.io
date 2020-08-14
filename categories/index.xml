@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Simone Barbieri</title>
-    <link>http://simonebarbieri.github.io/categories/</link>
+    <link>https://simonebarbieri.github.io/categories/</link>
     <description>Recent content in Categories on Simone Barbieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://simonebarbieri.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://simonebarbieri.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
