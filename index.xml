@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simone Barbieri</title>
-    <link>https://simonebarbieri.github.io/</link>
+    <link>https://barbierisimone.com/</link>
     <description>Recent content on Simone Barbieri</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://simonebarbieri.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://barbierisimone.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>3D Content Creation Exploiting 2D Character Animation</title>
-      <link>https://simonebarbieri.github.io/publications/3d-content-creation-exploiting-2d-character-animation/</link>
+      <link>https://barbierisimone.com/publications/3d-content-creation-exploiting-2d-character-animation/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://simonebarbieri.github.io/publications/3d-content-creation-exploiting-2d-character-animation/</guid>
+      <guid>https://barbierisimone.com/publications/3d-content-creation-exploiting-2d-character-animation/</guid>
       <description>Authors Barbieri Simone, Centre for Digital Entertainment, Bournemouth University, Thud Media
 Jiang Tao, Bournemouth University
 Cawthorne Ben, Thud Media
@@ -27,10 +27,10 @@ Abstract This poster proposes a new system for the generation of 3D content by u
     
     <item>
       <title>Repurpose 2D Character Animations for a VR Environment using BDH Shape Interpolation</title>
-      <link>https://simonebarbieri.github.io/publications/repurpose-2d-character-animations-for-a-vr-environment-using-bdh-shape-interpolation/</link>
+      <link>https://barbierisimone.com/publications/repurpose-2d-character-animations-for-a-vr-environment-using-bdh-shape-interpolation/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://simonebarbieri.github.io/publications/repurpose-2d-character-animations-for-a-vr-environment-using-bdh-shape-interpolation/</guid>
+      <guid>https://barbierisimone.com/publications/repurpose-2d-character-animations-for-a-vr-environment-using-bdh-shape-interpolation/</guid>
       <description>Authors Barbieri Simone, Centre for Digital Entertainment, Bournemouth University, Thud Media
 Ben Cawthorne, Thud Media
 Xiao Zhidong, Bournemouth University
@@ -40,10 +40,10 @@ Abstract Virtual Reality technology has spread rapidly in recent years. However,
     
     <item>
       <title>An interactive editor for curve-skeletons: SkeletonLab</title>
-      <link>https://simonebarbieri.github.io/publications/an-interactive-editor-for-curve-skeletons-skeletonlab/</link>
+      <link>https://barbierisimone.com/publications/an-interactive-editor-for-curve-skeletons-skeletonlab/</link>
       <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://simonebarbieri.github.io/publications/an-interactive-editor-for-curve-skeletons-skeletonlab/</guid>
+      <guid>https://barbierisimone.com/publications/an-interactive-editor-for-curve-skeletons-skeletonlab/</guid>
       <description>Authors Barbieri Simone, Centre for Digital Entertainment, Bournemouth University
 Meloni Pietro, Universitá degli studi di Cagliari
 Usai Francesco, Universitá degli studi di Cagliari
@@ -54,10 +54,10 @@ Abstract Curve-skeletons are powerful shape descriptors able to provide higher l
     
     <item>
       <title>Enhancing character posing by a sketch-based interaction</title>
-      <link>https://simonebarbieri.github.io/publications/enhancing-character-posing-by-a-sketch-based-interaction/</link>
+      <link>https://barbierisimone.com/publications/enhancing-character-posing-by-a-sketch-based-interaction/</link>
       <pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://simonebarbieri.github.io/publications/enhancing-character-posing-by-a-sketch-based-interaction/</guid>
+      <guid>https://barbierisimone.com/publications/enhancing-character-posing-by-a-sketch-based-interaction/</guid>
       <description>Authors Barbieri Simone, Centre for Digital Entertainment, Bournemouth University
 Garau Nicola, Universitá degli studi di Cagliari
 Hu Wenyu, Gannan Normal University
@@ -68,10 +68,10 @@ Abstract Sketch as the most intuitive and powerful 2D design method has been use
     
     <item>
       <title>Skeleton Lab: an Interactive Tool to Create, Edit, and Repair Curve-Skeletons</title>
-      <link>https://simonebarbieri.github.io/publications/skeletonlab/</link>
+      <link>https://barbierisimone.com/publications/skeletonlab/</link>
       <pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://simonebarbieri.github.io/publications/skeletonlab/</guid>
+      <guid>https://barbierisimone.com/publications/skeletonlab/</guid>
       <description>Authors Barbieri Simone, Universitá degli studi di Cagliari
 Meloni Pietro, Universitá degli studi di Cagliari
 Usai Francesco, Universitá degli studi di Cagliari
@@ -81,10 +81,10 @@ Abstract Curve-skeletons are well known shape descriptors, able to encode topolo
     
     <item>
       <title>BlueBlueRunning</title>
-      <link>https://simonebarbieri.github.io/projects/bluebluerunning/</link>
+      <link>https://barbierisimone.com/projects/bluebluerunning/</link>
       <pubDate>Wed, 16 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://simonebarbieri.github.io/projects/bluebluerunning/</guid>
+      <guid>https://barbierisimone.com/projects/bluebluerunning/</guid>
       <description>Authors: Barbieri Simone, Loddo Andrea, Mameli Emanuele, Muntoni Alessandro, Pompianu Livio
 University project: Final Project for the unit Operating System 2 for the Master Degree in Computer Science at the University of Cagliari.
 A five people project which consists in an Android application which traks user&amp;rsquo;s running trainings and it allows the users to save locally (in .GPX format) and share them with Google services such as Google Spreadsheet, Google Drive, Google Maps and Google Earth.</description>
@@ -92,10 +92,10 @@ A five people project which consists in an Android application which traks user&
     
     <item>
       <title>Voronoi Clarke &amp; Wright Algorithm</title>
-      <link>https://simonebarbieri.github.io/projects/voronoi-clarke-wright-algorithm/</link>
+      <link>https://barbierisimone.com/projects/voronoi-clarke-wright-algorithm/</link>
       <pubDate>Wed, 18 Jun 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://simonebarbieri.github.io/projects/voronoi-clarke-wright-algorithm/</guid>
+      <guid>https://barbierisimone.com/projects/voronoi-clarke-wright-algorithm/</guid>
       <description>Authors: Barbieri Simone, Loddo Andrea, Mameli Emanuele, Muntoni Alessandro, Pompianu Livio
 University project: Final Project for the unit Operative Research for the Master Degree in Computer Science at the University of Cagliari.
 A five people project which implements a modified version of Clarke and Wright Algorithm, for the vehicle routing problem, using the Voronoi tasselation.</description>
@@ -103,40 +103,40 @@ A five people project which implements a modified version of Clarke and Wright A
     
     <item>
       <title>Convex Hull 3D</title>
-      <link>https://simonebarbieri.github.io/projects/convex-hull-3d/</link>
+      <link>https://barbierisimone.com/projects/convex-hull-3d/</link>
       <pubDate>Fri, 06 Sep 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://simonebarbieri.github.io/projects/convex-hull-3d/</guid>
+      <guid>https://barbierisimone.com/projects/convex-hull-3d/</guid>
       <description>University project: Final Project for the unit Algorithms and Data Structures 2 for the Master Degree in Computer Science at the University of Cagliari.
 It implements a Convex Hull of a set of points in a 3D space.</description>
     </item>
     
     <item>
       <title>Shooter Pacman</title>
-      <link>https://simonebarbieri.github.io/projects/shooter-pacman/</link>
+      <link>https://barbierisimone.com/projects/shooter-pacman/</link>
       <pubDate>Tue, 28 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://simonebarbieri.github.io/projects/shooter-pacman/</guid>
+      <guid>https://barbierisimone.com/projects/shooter-pacman/</guid>
       <description>University project: Final Project for the unit Operating System for the Bachelor Degree in Computer Science at the University of Cagliari.
 A version of the famous videogame Pacman, in which Pacman and the ghost can shoot.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://simonebarbieri.github.io/about/</link>
+      <link>https://barbierisimone.com/about/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://simonebarbieri.github.io/about/</guid>
+      <guid>https://barbierisimone.com/about/</guid>
       <description>I am a Research Engineer (EngD) in Computer Science, at the Centre for Digital Entertainment, Bournemouth University. My research is funded by EPSRC. I am currently collaborating with Thud Media, in Cardiff. For my current research project, I am under the supervision of Dr. Xiaosong Yang and Dr. Zhidong Xiao from Bournemouth University and Mr. Ben Cawthorne from Thud Media.
 I obtained my BSc (2012) and MSc (2014) in Computer Science from the University of Cagliari, in Italy.</description>
     </item>
     
     <item>
       <title>Curriculum Vitae</title>
-      <link>https://simonebarbieri.github.io/curriculum/</link>
+      <link>https://barbierisimone.com/curriculum/</link>
       <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://simonebarbieri.github.io/curriculum/</guid>
+      <guid>https://barbierisimone.com/curriculum/</guid>
       <description>Work Experience Current - December 2016 Research Engineer at Thud Media, Cardiff
  Current - September 2015 EngD Student at Bournemouth University, Bournemouth
 Supervisors: Dr. Xiasong Yang, Dr. Zhidong Xiao
