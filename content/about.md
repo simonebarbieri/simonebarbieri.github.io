@@ -5,7 +5,7 @@ date: 2018-02-12
 draft: false
 ---
 
-![image alt <](/resources/profile-pic.jpg)
+<!-- ![image alt <](/resources/profile-pic.jpg) -->
 
 I am a Research Engineer (EngD) in Computer Science, at the Centre for Digital Entertainment, Bournemouth University. My research is funded by EPSRC. I am currently collaborating with [Thud Media](http://www.thudmedia.com/), in Cardiff. For my current research project, I am under the supervision of Dr. [Xiaosong Yang](https://staffprofiles.bournemouth.ac.uk/display/xyang) and Dr. [Zhidong Xiao](https://staffprofiles.bournemouth.ac.uk/display/zxiao) from Bournemouth University and Mr. Ben Cawthorne from Thud Media.
 

@@ -1,46 +1,107 @@
 baseURL = "https://barbierisimone.com"
-languageCode = "en-us"
+languageCode = "en"
 title = "Simone Barbieri"
-theme = "minimal"
+theme = "coder"
 
-paginate = 12
+paginate = 20
+pygmentsStyle = "bw"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
 enableEmoji = true
-enableRobotsTXT = true
-googleAnalytics = ""
+# Enable Disqus comments
+# disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Simone Barbieri"
-    description = "EngD Student"
+    description = "EngD"
+    keywords = "blog,developer,personal"
+    info = ["EngD in Digital Media"]
+    avatarURL = "/resources/profile-pic.jpg"
+    # gravatar = "john.doe@example.com"
     githubUsername = "simonebarbieri"
-    accent = "#2980b9"
-    showBorder = true
-    backgroundColor = "white"
-    font = "Montserrat" # should match the name on Google Fonts!
-    highlight = false
-    highlightStyle = "solarized-dark"
-    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift"]
-#	profilePic = "/resources/profile-pic.jpg"
+    # footerContent = "Enter a text here."
+    dateFormat = "January 2, 2006"
+    hideFooter = false
+    hideCredits = false
+    hideCopyright = false
+    since = 2015
+    # Git Commit in Footer, uncomment the line below to enable it
+    # commit = "https://github.com/luizdepra/hugo-coder/tree/"
+    # Right To Left, shift content direction for languagues such as Arabic
+    rtl = false
+    # Specify light/dark colorscheme
+    # Supported values:
+    # "auto" (use preference set by browser)
+    # "dark" (dark background, light foreground)
+    # "light" (light background, dark foreground) (default)
+    colorScheme = "auto"
+    # Hide the toggle button, along with the associated vertical divider
+    hideColorSchemeToggle = false
+    # Series see also post count
+    maxSeeAlsoItems = 5
+    # Custom CSS
+    customCSS = []
+    # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
+    customSCSS = []
+    # Custom JS
+    customJS = []
+
+[[params.social]]
+    name = "Email"
+    url = "mailto:simone.barbieri@hey.com"
+    icon = "fa fa-envelope-o"
+    weight = 1
+
+# [[params.social]]
+#     name = "University"
+#     url = "http://staffprofiles.bournemouth.ac.uk/display/sbarbieri"
+#     icon = "fa fa-university"
+#     weight = 2
+
+[[params.social]]
+    name = "GitHub"
+    url = "https://github.com/simonebarbieri/"
+    icon = "fa fa-github"
+    weight = 3
+
+# [[params.social]]
+#     name = "Facebook"
+#     url = "https://www.facebook.com/s.barbieri90"
+#     icon = "fa fa-facebook"
+#     weight = 4
+
+[[params.social]]
+    name = "Twitter"
+    url = "https://twitter.com/s_barbieri90/"
+    icon = "fa fa-twitter"
+    weight = 5
+
+[[params.social]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/simone-barbieri-a9966349/"
+    icon = "fa fa-linkedin"
+    weight = 6
 
 [[menu.main]]
     url = "/"
     name = "Home"
     weight = 1
 
-#[[menu.main]]
-#    url = "/post/"
-#    name = "Posts"
-#    weight = 2
+# [[menu.main]]
+#     url = "/post/"
+#     name = "Posts"
+#     weight = 2
 
 [[menu.main]]
-	url = "/about"
-	name = "About Me"
-	weight = 2
+    url = "/about"
+    name = "About Me"
+    weight = 2
 
 [[menu.main]]
     url = "/curriculum"
     name = "Curriculum"
     weight = 3
-	
+
 [[menu.main]]
     url = "/publications/"
     name = "Publications"
@@ -50,37 +111,3 @@ googleAnalytics = ""
     url = "/projects/"
     name = "Projects"
     weight = 5
-
-# Social icons to be shown on the right-hand side of the navigation bar
-# The "name" field should match the name of the icon to be used
-# The list of available icons can be found at http://fontawesome.io/icons/
-
-[[menu.icon]]
-    url = "mailto:simone.barbieri@hey.com"
-    name = "envelope-o"
-    weight = 1
-	
-[[menu.icon]]
-    url = "http://staffprofiles.bournemouth.ac.uk/display/sbarbieri"
-    name = "university"
-    weight = 2
-
-[[menu.icon]]
-    url = "https://github.com/simonebarbieri/"
-    name = "github"
-    weight = 3
-	
-[[menu.icon]]
-	url = "https://www.facebook.com/s.barbieri90"
-	name = "facebook"
-	weight = 4
-
-[[menu.icon]]
-    url = "https://twitter.com/s_barbieri90/"
-    name = "twitter"
-    weight = 5
-
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/simone-barbieri-a9966349/"
-    name = "linkedin"
-    weight = 6
