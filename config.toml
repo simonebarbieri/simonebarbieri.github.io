@@ -92,10 +92,10 @@ enableEmoji = true
 #     name = "Posts"
 #     weight = 2
 
-[[menu.main]]
-    url = "/about"
-    name = "About Me"
-    weight = 2
+# [[menu.main]]
+#     url = "/about"
+#     name = "About Me"
+#     weight = 2
 
 [[menu.main]]
     url = "/curriculum"
@@ -107,7 +107,7 @@ enableEmoji = true
     name = "Publications"
     weight = 4
 
-[[menu.main]]
-    url = "/projects/"
-    name = "Projects"
-    weight = 5
+# [[menu.main]]
+#     url = "/projects/"
+#     name = "Projects"
+#     weight = 5
