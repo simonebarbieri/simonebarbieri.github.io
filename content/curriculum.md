@@ -1,126 +1,217 @@
 ---
 title: "Curriculum Vitae"
-description: " "
+description: "Simone Barbieri's Curriculum Vitae"
 date: 2018-02-12
 draft: false
 ---
 
 [comment]: &lt;> "Click [here](/downloads/Barbieri%20Simone's%20Curriculum.pdf) to download a PDF copy of the curriculum."
 
-## Work Experience
+## Professional Experience
 
-<br>
+{{< columns size=small >}}
 
-#### Current - December 2016
+2022 - ongoing
 
-Research Engineer at **Thud Media**, Cardiff
+<--->
 
----
+**Pipeline Developer** | Ynput, Prague, Czech Republic
 
-#### Current - September 2015
+Role: Worked on OpenPype pipeline software, mainly on the integration of Unreal Engine.
 
-EngD Student at **Bournemouth University**, Bournemouth
+{{< /columns >}}
 
-**Supervisors**: Dr. Xiasong Yang, Dr. Zhidong Xiao
+{{< columns size=small >}}
 
----
+2020 - 2022
 
-#### December 2014 - March 2015
+<--->
 
-Research Fellow at **University of Cagliari**, Cagliari
+**Pipeline Developer** | Cloth Cat Animation, Cardiff, UK
 
-**Advisor**: Prof. Maurizio Atzori
+Role: Worked on animation tools and OpenPype pipeline software, mainly on the integration of
+Blender and Unreal Engine for animated series.
 
-<br><br>
+{{< /columns >}}
+
+{{< columns size=small >}}
+
+2016 - 2020
+
+<--->
+
+**Research Engineer** | Cloth Cat Games (formerly Thud Media), Cardiff, UK
+
+Role: Research on curve-skeletons and sketch-based interactions for posing and animation.
+
+{{< /columns >}}
+
+{{< columns size=small >}}
+
+2014 - 2015
+
+<--->
+
+**Research Fellow** | Università degli Studi di Cagliari, Cagliari, Italy
+
+Role: Research on experimental programming language based on spreadsheets.
+
+{{< /columns >}}
+
 
 ## Education
 
-<br>
+{{< columns size=small >}}
 
-#### September 2014
+2015 - 2020
 
-Master Degree in Computer Science, **University of Cagliari**, Cagliari
+<--->
 
-**Score**: 110/110
+**EngD in Digital Media** | Bournemouth University, UK
 
-**Thesis**: *Skeleton Editing and Mesh Reconstruction from Skeleton*
+Thesis: Generation of 3D characters from existing cartoons and a unified pipeline for animation
+and video games.
 
-**Brief Description**: the thesis consists of a skeleton editor, capable of a number of useful feature which allow a simple editing for all users, and an inverse skeletonization algorithm which generate a three-dimensional quad-mesh from the created skeleton.
+{{< /columns >}}
 
-**Advisor**: Prof. Riccardo Scateni
+{{< columns size=small >}}
 
-![](/resources/pdf-icon.png) [Download Master's Thesis](/downloads/Master%20Degree%20Thesis%20-%20Simone%20Barbieri.pdf) (5.96 MB)
+2012 - 2014
 
----
+<--->
 
-#### July 2012
+**MSc in Computer Science** | Università degli Studi di Cagliari, Italy
 
-Bachelor Degree in Computer Science, **University of Cagliari**, Cagliari
+Thesis: Skeleton Editing and Mesh Reconstruction from Skeleton. ![](/resources/pdf-icon.png) [Download](/downloads/Master%20Degree%20Thesis%20-%20Simone%20Barbieri.pdf) (5.96 MB)
 
-**Score**: 110/110
+{{< /columns >}}
 
-**Thesis**: *Visual Engine for Reading On Network In Comprehensive Acceptation*
+{{< columns size=small >}}
 
-**Brief Description**: V.E.R.O.N.I.C.A. system is a five people project which has as its primary goal the creation of automated support for reading for people suffering from the disorder of dyslexia, through a web-based application accessible from any platform.
+2009 - 2012
 
-**Advisors**: Prof. Massimo Bartoletti, Prof.ssa Silvia Corso, Prof. Gianni Fenu, Prof.ssa Barbara Pes, Prof. Riccardo Scateni
+<--->
 
-![](/resources/pdf-icon.png) [Download Bachelor's Thesis (Italian)](/downloads/Bachelor%20Degree%20Thesis%20-%20Simone%20Barbieri.pdf) (3.34 MB)
+**BSc in Computer Science** | Università degli Studi di Cagliari, Italy
 
-<br><br>
-
-## Languages
-
-<br>
-
-#### Italian
-
-Mothertongue
-
----
-
-#### English
-
-IELTS level 6.5 (5.5 Speaking - 5.0 Writing - 7.0 Listening - 7.5 Reading)
-
-<br><br>
-
-## Computer Skills
-
-<br>
-
-#### Advanced Knowledge
-
-C, C++, Qt, OpenGL, Java
-
----
-
-#### Intermediate Knowledge
-
-LATEX, Python, HTML, CSS, PHP, Javascript, Android SDK
-
----
-
-#### Basic Knowledge
-
-OCaml, Assembly, JQuery, MySQL
-
-<br><br>
+{{< /columns >}}
 
 ## Skills
 
-<br>
+### Core Competencies
 
-- Experience in group working. Most of the university project I have worked on have been carried out in groups of five people.<br>
+{{< columns size=small >}}
 
-- Experience in presenting projects carried out in Power Point presentations with different types of audiences.
-- Expertise in project planning, including the ability in creating documents such as Requirements Analysis and Project Plan.
-- Ability in coordinating small workgroups.
+Unreal Engine
 
-<br><br>
+<--->
 
-## Interests and Activities
+Integration of Unreal Engine in the OpenPype pipeline. Development of plugins for support
+to studio artists.
 
-<br>
+{{< /columns >}}
 
-Technology, Open-Source, Programming, Comics, Video games, Movies, TV Shows, Fencing (**6 years**), Basketball (**2 years**), Swimming (**5 years**), Travelling
+{{< columns size=small >}}
+
+Blender
+
+<--->
+
+Integration of Blender in the OpenPype pipeline. Development of addons for support to
+studio artists.
+
+{{< /columns >}}
+
+{{< columns size=small >}}
+
+Maya
+
+<--->
+
+Development of custom scripts for animation support.
+
+{{< /columns >}}
+
+### Programming Languages
+
+{{< columns size=small >}}
+
+Python
+
+<--->
+
+Development of integrations for OpenPype. Scripts for Unreal Engine, Blender and Maya.
+
+{{< /columns >}}
+
+{{< columns size=small >}}
+
+C++
+
+<--->
+
+Development of plugins for Unreal Engine.
+
+{{< /columns >}}
+
+{{< columns size=small >}}
+
+C
+
+<--->
+
+Development of Blender source code.
+
+{{< /columns >}}
+
+{{< columns size=small >}}
+
+C#
+
+<--->
+
+Development of Unity scripts.
+
+{{< /columns >}}
+
+{{< columns size=small >}}
+
+Qt
+
+<--->
+
+Development of tools for curve-skeleton editor and sketch-based interaction.
+
+{{< /columns >}}
+
+{{< columns size=small >}}
+
+Lua
+
+<--->
+
+Basic knowledge for development of extentions for MMORPG games.
+
+{{< /columns >}}
+
+### Languages
+
+{{< columns size=small >}}
+
+Italian
+
+<--->
+
+Native
+
+{{< /columns >}}
+
+{{< columns size=small >}}
+
+English
+
+<--->
+
+Lived and worked in the UK since 2015 and completed my EngD in a UK university.
+
+{{< /columns >}}
