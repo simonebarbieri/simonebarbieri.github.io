@@ -82,7 +82,7 @@ and video games.
 
 **MSc in Computer Science** | Università degli Studi di Cagliari, Italy
 
-Thesis: Skeleton Editing and Mesh Reconstruction from Skeleton. ![](/resources/pdf-icon.png) [Download](/downloads/Master%20Degree%20Thesis%20-%20Simone%20Barbieri.pdf) (5.96 MB)
+Thesis: Skeleton Editing and Mesh Reconstruction from Skeleton.
 
 {{< /columns >}}
 
