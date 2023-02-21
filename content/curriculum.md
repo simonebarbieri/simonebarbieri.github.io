@@ -96,6 +96,22 @@ Thesis: Skeleton Editing and Mesh Reconstruction from Skeleton. ![](/resources/p
 
 {{< /columns >}}
 
+## Project Experience
+
+{{< columns size=small >}}
+
+2020 - ongoing
+
+<--->
+
+**OpenPype** | https://openpype.io
+
+Open source pipeline for visual effects and animation.
+
+Role: Mainly integration of Blender and Unreal Engine in the pipeline.
+
+{{< /columns >}}
+
 ## Skills
 
 ### Core Competencies
