@@ -82,10 +82,10 @@ enableEmoji = true
     icon = "fa fa-linkedin"
     weight = 6
 
-[[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
+# [[menu.main]]
+#     url = "/"
+#     name = "Home"
+#     weight = 1
 
 # [[menu.main]]
 #     url = "/post/"
