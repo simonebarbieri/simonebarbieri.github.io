@@ -5,7 +5,7 @@ date: 2018-02-12
 draft: false
 ---
 
-[comment]: &lt;> "Click [here](/downloads/Barbieri%20Simone's%20Curriculum.pdf) to download a PDF copy of the curriculum."
+Click [here](/downloads/simone_barbieri_cv.pdf) to download a PDF copy of the curriculum.
 
 ## Professional Experience
 
