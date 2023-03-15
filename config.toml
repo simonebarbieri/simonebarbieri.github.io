@@ -12,8 +12,8 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Simone Barbieri"
-    description = "EngD"
+    author = "Dr. Simone Barbieri"
+    description = "Simone Barbieri's Personal Website"
     keywords = "blog,developer,personal"
     info = ["EngD in Digital Media"]
     avatarURL = "/resources/profile-pic.jpg"
@@ -92,10 +92,10 @@ enableEmoji = true
 #     name = "Posts"
 #     weight = 2
 
-# [[menu.main]]
-#     url = "/about"
-#     name = "About Me"
-#     weight = 2
+[[menu.main]]
+    url = "/about"
+    name = "About Me"
+    weight = 2
 
 [[menu.main]]
     url = "/curriculum"

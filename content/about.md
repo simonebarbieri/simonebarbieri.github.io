@@ -1,15 +1,15 @@
 ---
 title: "About Me"
 description: " "
-date: 2018-02-12
+date: 2023-02-21
 draft: false
 ---
 
 <!-- ![image alt <](/resources/profile-pic.jpg) -->
 
-I am a Research Engineer (EngD) in Computer Science, at the Centre for Digital Entertainment, Bournemouth University. My research is funded by EPSRC. I am currently collaborating with [Thud Media](http://www.thudmedia.com/), in Cardiff. For my current research project, I am under the supervision of Dr. [Xiaosong Yang](https://staffprofiles.bournemouth.ac.uk/display/xyang) and Dr. [Zhidong Xiao](https://staffprofiles.bournemouth.ac.uk/display/zxiao) from Bournemouth University and Mr. Ben Cawthorne from Thud Media.
+I am Simone Barbieri, a pipeline developer at Ynput, a company that provides open source pipeline software for visual effects and animation.
+I have over five years of experience in developing tools and integrations for Unreal Engine, Blender and Maya.
 
-I obtained my BSc (2012) and MSc (2014) in Computer Science from the University of Cagliari, in Italy. My [Master's Thesis](/downloads/Master%20Degree%20Thesis%20-%20Simone%20Barbieri.pdf) is about a curve-skeleton editing tool and a novel inverse-skeletonization algorithm which produces three-dimensional quad-meshes.
+I also hold an EngD in Digital Media from Bournemouth University, where I conducted research on curve-skeletons and sketch-based interactions for posing and animation. I am passionate about creating tools that enhance the creative process of artists and animators.
 
-My research interests include Computer Animation, Sketch-based interfaces and Virtual Reality.
-​				
+In my spare time, I enjoy playing video games, watching animation films and exploring new technologies.​
