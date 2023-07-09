@@ -71,6 +71,13 @@ enableEmoji = true
 #     weight = 4
 
 [[params.social]]
+    name = "Mastodon"
+    rel = "me"
+    url = "https://mastodon.social/@simone_barbieri"
+    icon = "fa fa-mastodon"
+    weight = 4
+
+[[params.social]]
     name = "Twitter"
     url = "https://twitter.com/s_barbieri90/"
     icon = "fa fa-twitter"
