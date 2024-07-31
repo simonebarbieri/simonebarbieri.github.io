@@ -108,6 +108,21 @@
   }
 }
 
+.aboutme img {
+  width: 30rem;
+  height: auto;
+  border-radius: 5%;
+  margin-right: 2rem;
+  margin-top: 2rem;
+  float: left;
+
+  @media only screen and (max-width: 768px) {
+    margin-right: 0;
+    margin-top: 0;
+    float: none;
+  }
+}
+
 .list {
   ul {
     margin: 3.2rem 0 3.2rem 0;
