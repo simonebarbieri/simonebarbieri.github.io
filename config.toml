@@ -48,7 +48,7 @@ enableEmoji = true
 
 [[params.social]]
     name = "Email"
-    url = "mailto:simone.barbieri@hey.com"
+    url = "mailto:me@barbierisimone.com"
     icon = "fa fa-envelope-o"
     weight = 1
 
