@@ -11,13 +11,13 @@ Click [here](/downloads/simone_barbieri_cv.pdf) to download a PDF copy of the cu
 
 {{< columns size=small >}}
 
-2022 - ongoing
+2022 - 2024
 
 <--->
 
-**Pipeline Developer** | Ynput, Prague, Czech Republic
+**Pipeline Developer** | Ynput, Prague, Czech Republic (Remote)
 
-Role: Worked on OpenPype pipeline software, mainly on the integration of Unreal Engine.
+Worked on Ayon (formerly OpenPype) pipeline software. Implemented and maintained the integration for Unreal Engine and Blender. Support clients on issues and feature requests.
 
 {{< /columns >}}
 
@@ -29,8 +29,8 @@ Role: Worked on OpenPype pipeline software, mainly on the integration of Unreal 
 
 **Pipeline Developer** | Cloth Cat Animation, Cardiff, UK
 
-Role: Worked on animation tools and OpenPype pipeline software, mainly on the integration of
-Blender and Unreal Engine for animated series.
+Worked in close contact with the animators to support them in the use of tools, implementation of utilities based on their feedback and maintaining the software.
+Worked on animation tools and Ayon (formerly OpenPype) pipeline software, mainly on the integration of Blender and Unreal Engine.
 
 {{< /columns >}}
 
@@ -42,7 +42,7 @@ Blender and Unreal Engine for animated series.
 
 **Research Engineer** | Cloth Cat Games (formerly Thud Media), Cardiff, UK
 
-Role: Research on curve-skeletons and sketch-based interactions for posing and animation.
+Research on curve-skeletons and sketch-based interactions for posing and animation.
 
 {{< /columns >}}
 
@@ -54,7 +54,7 @@ Role: Research on curve-skeletons and sketch-based interactions for posing and a
 
 **Research Fellow** | Università degli Studi di Cagliari, Cagliari, Italy
 
-Role: Research on experimental programming language based on spreadsheets.
+Research on experimental programming language based on spreadsheets.
 
 {{< /columns >}}
 
@@ -100,11 +100,11 @@ Thesis: Skeleton Editing and Mesh Reconstruction from Skeleton.
 
 {{< columns size=small >}}
 
-2020 - ongoing
+2020 - 2024
 
 <--->
 
-**OpenPype** | https://openpype.io
+**Ayon** | https://openpype.io | (formerly OpenPype)
 
 Open source pipeline for visual effects and animation.
 
