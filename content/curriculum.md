@@ -11,6 +11,18 @@ Click [here](/downloads/simone_barbieri_cv.pdf) to download a PDF copy of the cu
 
 {{< columns size=small >}}
 
+2024 - on
+
+<--->
+
+**Senior Technical Developer** | JLR, Gaydon, UK
+
+Developing custom plugins, tools and script for different DCCs to optimize artist workflows and enhance the efficiency of JLR’s design and production pipelines.
+
+{{< /columns >}}
+
+{{< columns size=small >}}
+
 2022 - 2024
 
 <--->
@@ -122,8 +134,7 @@ Unreal Engine
 
 <--->
 
-Integration of Unreal Engine in the OpenPype pipeline. Development of plugins for support
-to studio artists.
+Integration of Unreal Engine in the OpenPype pipeline. Development of plugins for support to studio artists.
 
 {{< /columns >}}
 
@@ -133,8 +144,7 @@ Blender
 
 <--->
 
-Integration of Blender in the OpenPype pipeline. Development of addons for support to
-studio artists.
+Integration of Blender in the OpenPype pipeline. Development of addons for support to studio artists.
 
 {{< /columns >}}
 
@@ -144,7 +154,7 @@ Maya
 
 <--->
 
-Development of custom scripts for animation support.
+Development of custom plugins and scripts to optimize artist workflows.
 
 {{< /columns >}}
 
@@ -156,7 +166,7 @@ Python
 
 <--->
 
-Development of integrations for OpenPype. Scripts for Unreal Engine, Blender and Maya.
+Development of integrations for Ayon. Scripts and tools for Unreal Engine, Blender, Maya and other DCCs.
 
 {{< /columns >}}
 
