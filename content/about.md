@@ -7,7 +7,7 @@ draft: false
 
 {{< figure src="/resources/romero.jpg" alt="Me and John Romero" class="aboutme">}}
 
-I am Simone Barbieri, a software developer. I've worked in the animation industry and have over five years of experience developing tools and integrations for Unreal Engine, Blender, and Maya.
+I am Simone Barbieri, a software developer. I've worked in the animation industry and have over five years of experience developing tools and integrations for Unreal Engine, Blender, Maya and other DCCs.
 
 I also hold an EngD in Digital Media from Bournemouth University, where I researched curve-skeletons and sketch-based interactions for posing and animation. I am passionate about creating tools that enhance the creative process for artists and animators.
 
