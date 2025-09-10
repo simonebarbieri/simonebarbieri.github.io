@@ -1,24 +1,109 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications on Simone Barbieri</title><link>https://barbierisimone.com/publications/</link><description>Recent content in Publications on Simone Barbieri</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 12 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://barbierisimone.com/publications/index.xml" rel="self" type="application/rss+xml"/><item><title>3D Content Creation Exploiting 2D Character Animation</title><link>https://barbierisimone.com/publications/3d-content-creation-exploiting-2d-character-animation/</link><pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate><guid>https://barbierisimone.com/publications/3d-content-creation-exploiting-2d-character-animation/</guid><description>Authors Barbieri Simone, Centre for Digital Entertainment, Bournemouth University, Thud Media
-Jiang Tao, Bournemouth University
-Cawthorne Ben, Thud Media
-Xiao Zhidong, Bournemouth University
-Yang Xiaosong, Bournemouth University
-Abstract This poster proposes a new system for the generation of 3D content by using existing 2D character animations. The system is fully automatic. The assets required are directly available from the 2D animation production pipeline, and therefore the system could be easily integrated in it.</description></item><item><title>Repurpose 2D Character Animations for a VR Environment using BDH Shape Interpolation</title><link>https://barbierisimone.com/publications/repurpose-2d-character-animations-for-a-vr-environment-using-bdh-shape-interpolation/</link><pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate><guid>https://barbierisimone.com/publications/repurpose-2d-character-animations-for-a-vr-environment-using-bdh-shape-interpolation/</guid><description>Authors Barbieri Simone, Centre for Digital Entertainment, Bournemouth University, Thud Media
-Ben Cawthorne, Thud Media
-Xiao Zhidong, Bournemouth University
-Yang Xiaosong, Bournemouth University
-Abstract Virtual Reality technology has spread rapidly in recent years. However, its growth risks ending soon due to the absence of quality content, except for few exceptions. We present an original framework that allows artists to use 2D characters and animations in a 3D Virtual Reality environment, in order to give an easier access to the production of content for the platform.</description></item><item><title>An interactive editor for curve-skeletons: SkeletonLab</title><link>https://barbierisimone.com/publications/an-interactive-editor-for-curve-skeletons---skeletonlab/</link><pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate><guid>https://barbierisimone.com/publications/an-interactive-editor-for-curve-skeletons---skeletonlab/</guid><description>Authors Barbieri Simone, Centre for Digital Entertainment, Bournemouth University
-Meloni Pietro, Universitá degli studi di Cagliari
-Usai Francesco, Universitá degli studi di Cagliari
-Spano Davide Lucio, Universitá degli studi di Cagliari
-Scateni Riccardo, Universitá degli studi di Cagliari
-Abstract Curve-skeletons are powerful shape descriptors able to provide higher level information on topology, structure and semantics of a given digital object. Their range of application is wide and encompasses computer animation, shape matching, modelling and remeshing.</description></item><item><title>Enhancing character posing by a sketch-based interaction</title><link>https://barbierisimone.com/publications/enhancing-character-posing-by-a-sketch-based-interaction/</link><pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate><guid>https://barbierisimone.com/publications/enhancing-character-posing-by-a-sketch-based-interaction/</guid><description>Authors Barbieri Simone, Centre for Digital Entertainment, Bournemouth University
-Garau Nicola, Universitá degli studi di Cagliari
-Hu Wenyu, Gannan Normal University
-Xiao Zhidong, Bournemouth University
-Yang Xiaosong, Bournemouth University
-Abstract Sketch as the most intuitive and powerful 2D design method has been used by artists for decades. However it is not fully integrated into current 3D animation pipeline as the difficulties of interpreting 2D line drawing into 3D. Several successful research for character posing from sketch has been presented in the past few years, such as the Line of Action [Guay et al.</description></item><item><title>Skeleton Lab: an Interactive Tool to Create, Edit, and Repair Curve-Skeletons</title><link>https://barbierisimone.com/publications/skeletonlab/</link><pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate><guid>https://barbierisimone.com/publications/skeletonlab/</guid><description>Authors Barbieri Simone, Universitá degli studi di Cagliari
-Meloni Pietro, Universitá degli studi di Cagliari
-Usai Francesco, Universitá degli studi di Cagliari
-Scateni Riccardo, Universitá degli studi di Cagliari
-Abstract Curve-skeletons are well known shape descriptors, able to encode topological and structural information of a shape. The range of applications in which they are used comprises, to name a few, computer animation, shape matching, modelling and remeshing. Different tools for automatically extracting the curve-skeleton for a given input mesh are currently available, as well as inverse skeletonization tools, where a user-defined skeleton is taken as input in order to build a mesh that reflects the encoded structure.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publications on Simone Barbieri</title><link>https://barbierisimone.com/publications/</link><description>Recent content in Publications on Simone Barbieri</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 12 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://barbierisimone.com/publications/index.xml" rel="self" type="application/rss+xml"/><item><title>3D Content Creation Exploiting 2D Character Animation</title><link>https://barbierisimone.com/publications/3d-content-creation-exploiting-2d-character-animation/</link><pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate><guid>https://barbierisimone.com/publications/3d-content-creation-exploiting-2d-character-animation/</guid><description>&lt;p&gt;&lt;img src="https://barbierisimone.com/resources/portfolio-img/3d-content-creation.png" alt=""&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id="authors"&gt;
+ &lt;strong&gt;Authors&lt;/strong&gt;
+ &lt;a class="heading-link" href="#authors"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://barbierisimone.com/" class="external-link" target="_blank" rel="noopener"&gt;Barbieri Simone&lt;/a&gt;, Centre for Digital Entertainment, Bournemouth University, Thud Media&lt;/p&gt;
+&lt;p&gt;Jiang Tao, Bournemouth University&lt;/p&gt;
+&lt;p&gt;Cawthorne Ben, Thud Media&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://staffprofiles.bournemouth.ac.uk/display/zxiao" class="external-link" target="_blank" rel="noopener"&gt;Xiao Zhidong&lt;/a&gt;, Bournemouth University&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://staffprofiles.bournemouth.ac.uk/display/xyang" class="external-link" target="_blank" rel="noopener"&gt;Yang Xiaosong&lt;/a&gt;, Bournemouth University&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id="abstract"&gt;
+ &lt;strong&gt;Abstract&lt;/strong&gt;
+ &lt;a class="heading-link" href="#abstract"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;This poster proposes a new system for the generation of 3D content by using existing 2D character animations. The system is fully automatic. The assets required are directly available from the 2D animation production pipeline, and therefore the system could be easily integrated in it.&lt;/p&gt;</description></item><item><title>Repurpose 2D Character Animations for a VR Environment using BDH Shape Interpolation</title><link>https://barbierisimone.com/publications/repurpose-2d-character-animations-for-a-vr-environment-using-bdh-shape-interpolation/</link><pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate><guid>https://barbierisimone.com/publications/repurpose-2d-character-animations-for-a-vr-environment-using-bdh-shape-interpolation/</guid><description>&lt;p&gt;&lt;img src="https://barbierisimone.com/resources/portfolio-img/repurpose.png" alt=""&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id="authors"&gt;
+ &lt;strong&gt;Authors&lt;/strong&gt;
+ &lt;a class="heading-link" href="#authors"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://barbierisimone.com/" class="external-link" target="_blank" rel="noopener"&gt;Barbieri Simone&lt;/a&gt;, Centre for Digital Entertainment, Bournemouth University, Thud Media&lt;/p&gt;
+&lt;p&gt;Ben Cawthorne, Thud Media&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://staffprofiles.bournemouth.ac.uk/display/zxiao" class="external-link" target="_blank" rel="noopener"&gt;Xiao Zhidong&lt;/a&gt;, Bournemouth University&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://staffprofiles.bournemouth.ac.uk/display/xyang" class="external-link" target="_blank" rel="noopener"&gt;Yang Xiaosong&lt;/a&gt;, Bournemouth University&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id="abstract"&gt;
+ &lt;strong&gt;Abstract&lt;/strong&gt;
+ &lt;a class="heading-link" href="#abstract"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Virtual Reality technology has spread rapidly in recent years. However, its growth risks ending soon due to the absence of quality content, except for few exceptions. We present an original framework that allows artists to use 2D characters and animations in a 3D Virtual Reality environment, in order to give an easier access to the production of content for the platform. In traditional platforms, 2D animation represents a more economic and immediate alternative to 3D. The challenge in adapting 2D characters to a 3D environment is to interpret the missing depth information. A 2D character is actually flat, so there is not any depth information, and every body part is at the same level of the others. We exploit mesh interpolation, billboarding and parallax scrolling to simulate the depth between each body segment of the character. We have developed a prototype of the system, and extensive tests with a 2D animation production show the effectiveness of our framework.&lt;/p&gt;</description></item><item><title>An interactive editor for curve-skeletons: SkeletonLab</title><link>https://barbierisimone.com/publications/an-interactive-editor-for-curve-skeletons---skeletonlab/</link><pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate><guid>https://barbierisimone.com/publications/an-interactive-editor-for-curve-skeletons---skeletonlab/</guid><description>&lt;p&gt;&lt;img src="https://barbierisimone.com/resources/portfolio-img/skel-lab2.jpg" alt=""&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id="authors"&gt;
+ &lt;strong&gt;Authors&lt;/strong&gt;
+ &lt;a class="heading-link" href="#authors"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://barbierisimone.com/" class="external-link" target="_blank" rel="noopener"&gt;Barbieri Simone&lt;/a&gt;, Centre for Digital Entertainment, Bournemouth University&lt;/p&gt;
+&lt;p&gt;Meloni Pietro, Universitá degli studi di Cagliari&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://francescousai.info/" class="external-link" target="_blank" rel="noopener"&gt;Usai Francesco&lt;/a&gt;, Universitá degli studi di Cagliari&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://people.unica.it/davidespano/" class="external-link" target="_blank" rel="noopener"&gt;Spano Davide Lucio&lt;/a&gt;, Universitá degli studi di Cagliari&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://people.unica.it/riccardoscateni/" class="external-link" target="_blank" rel="noopener"&gt;Scateni Riccardo&lt;/a&gt;, Universitá degli studi di Cagliari&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id="abstract"&gt;
+ &lt;strong&gt;Abstract&lt;/strong&gt;
+ &lt;a class="heading-link" href="#abstract"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Curve-skeletons are powerful shape descriptors able to provide higher level information on topology, structure and semantics of a given digital object. Their range of application is wide and encompasses computer animation, shape matching, modelling and remeshing. While a universally accepted definition of curve-skeleton is still lacking, there are currently many algorithms for the curve-skeleton computation (or skeletonization) as well as different techniques for building a mesh around a given curve-skeleton (inverse skeletonization). Despite their widespread use, automatically extracted skeletons usually need to be processed in order to be used in further stages of any pipeline, due to different requirements. We present here an advanced tool, named SkeletonLab, that provides simple interactive techniques to rapidly and automatically edit and repair curve skeletons generated using different techniques proposed in the literature, as well as handcrafting them. The aim of the tool is to allow trained practitioners to manipulate the curve-skeletons obtained with skeletonization algorithms in order to fit their specific pipelines or to explore the requirements of newly developed techniques.&lt;/p&gt;</description></item><item><title>Enhancing character posing by a sketch-based interaction</title><link>https://barbierisimone.com/publications/enhancing-character-posing-by-a-sketch-based-interaction/</link><pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate><guid>https://barbierisimone.com/publications/enhancing-character-posing-by-a-sketch-based-interaction/</guid><description>&lt;p&gt;&lt;img src="https://barbierisimone.com/resources/portfolio-img/enhancing-character-posing.jpg" alt=""&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id="authors"&gt;
+ &lt;strong&gt;Authors&lt;/strong&gt;
+ &lt;a class="heading-link" href="#authors"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://barbierisimone.com/" class="external-link" target="_blank" rel="noopener"&gt;Barbieri Simone&lt;/a&gt;, Centre for Digital Entertainment, Bournemouth University&lt;/p&gt;
+&lt;p&gt;Garau Nicola, Universitá degli studi di Cagliari&lt;/p&gt;
+&lt;p&gt;Hu Wenyu, Gannan Normal University&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://staffprofiles.bournemouth.ac.uk/display/zxiao" class="external-link" target="_blank" rel="noopener"&gt;Xiao Zhidong&lt;/a&gt;, Bournemouth University&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://staffprofiles.bournemouth.ac.uk/display/xyang" class="external-link" target="_blank" rel="noopener"&gt;Yang Xiaosong&lt;/a&gt;, Bournemouth University&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id="abstract"&gt;
+ &lt;strong&gt;Abstract&lt;/strong&gt;
+ &lt;a class="heading-link" href="#abstract"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Sketch as the most intuitive and powerful 2D design method has been used by artists for decades. However it is not fully integrated into current 3D animation pipeline as the difficulties of interpreting 2D line drawing into 3D. Several successful research for character posing from sketch has been presented in the past few years, such as the Line of Action [Guay et al. 2013] and Sketch Abstractions [Hahn et al. 2015]. However both of the methods require animators to manually give some initial setup to solve the corresponding problems. In this paper, we propose a new sketch based character posing system which is more flexible and efficient. It requires less input from the user than the system from [Hahn et al. 2015]. The character can be easily posed no matter the sketch represents a skeleton structure or shape contours.&lt;/p&gt;</description></item><item><title>Skeleton Lab: an Interactive Tool to Create, Edit, and Repair Curve-Skeletons</title><link>https://barbierisimone.com/publications/skeletonlab/</link><pubDate>Thu, 15 Oct 2015 00:00:00 +0000</pubDate><guid>https://barbierisimone.com/publications/skeletonlab/</guid><description>&lt;p&gt;&lt;img src="https://barbierisimone.com/resources/portfolio-img/dragon-compose.png" alt=""&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id="authors"&gt;
+ &lt;strong&gt;Authors&lt;/strong&gt;
+ &lt;a class="heading-link" href="#authors"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;&lt;a href="http://barbierisimone.com/" class="external-link" target="_blank" rel="noopener"&gt;Barbieri Simone&lt;/a&gt;, Universitá degli studi di Cagliari&lt;/p&gt;
+&lt;p&gt;Meloni Pietro, Universitá degli studi di Cagliari&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://francescousai.info/" class="external-link" target="_blank" rel="noopener"&gt;Usai Francesco&lt;/a&gt;, Universitá degli studi di Cagliari&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://people.unica.it/riccardoscateni/" class="external-link" target="_blank" rel="noopener"&gt;Scateni Riccardo&lt;/a&gt;, Universitá degli studi di Cagliari&lt;/p&gt;
+&lt;br&gt;
+&lt;h4 id="abstract"&gt;
+ &lt;strong&gt;Abstract&lt;/strong&gt;
+ &lt;a class="heading-link" href="#abstract"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Curve-skeletons are well known shape descriptors, able to encode topological and structural information of a shape. The range of applications in which they are used comprises, to name a few, computer animation, shape matching, modelling and remeshing. Different tools for automatically extracting the curve-skeleton for a given input mesh are currently available, as well as inverse skeletonization tools, where a user-defined skeleton is taken as input in order to build a mesh that reflects the encoded structure. Although their use is broad, an automatically extracted curve-skeleton is usually not well-suited for the next pipeline step in which they will be used. We present a tool for creating, editing and repairing curve-skeletons whose aim is to allow users to obtain, within minutes, curve-skeletons that are tailored for their specific task.&lt;/p&gt;</description></item></channel></rss>
