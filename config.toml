@@ -78,10 +78,16 @@ enableEmoji = true
     weight = 4
 
 [[params.social]]
-    name = "Twitter"
-    url = "https://twitter.com/s_barbieri90/"
-    icon = "fa fa-twitter"
+    name = "Bluesky"
+    url = "https://bsky.app/profile/barbierisimone.com"
+    icon = "fa fa-bluesky"
     weight = 5
+
+# [[params.social]]
+#     name = "Twitter"
+#     url = "https://twitter.com/s_barbieri90/"
+#     icon = "fa fa-twitter"
+#     weight = 5
 
 [[params.social]]
     name = "LinkedIn"
